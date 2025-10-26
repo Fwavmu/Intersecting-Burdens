@@ -1,2 +1,5 @@
 # Intersecting Burdens
 This project examines the relationship between HIV prevalence and multidimensional poverty across countries from 2000 to 2023. By merging World Health Organization HIV data with World Bank indicators of poverty—including education, income, sanitation, and electricity access—a mixed-effects model is used to analyze how structural inequalities influence the HIV burden.
+
+# Conclusion
+A linear mixed-effects model was estimated to examine the relationship between mortality rates and key predictors while accounting for yearly variability. Results indicated that access to improved water sources (Estimate = 383,256; t = 6.927) and education enrollment (Estimate = -239,128; t = -4.731) were significant predictors, with higher water access associated with increased survival and higher enrollment linked to reduced mortality. In contrast, education attainment and sanitation did not show statistically significant effects. Random effects for year capture moderate between-year variability, and residual variance remained substantial, suggesting other unmeasured factors may also influence mortality rates.
